@@ -48,7 +48,7 @@ If you have any questions, suggestions, or issues regarding this project or repo
   - Email: jary.jonas@gmail.com
 - **Lukáš Houdek** - Mechanical Designer and Developer, 3D Printing Expert
   - Email: [HOUDEK EMAIL]
-- **Natani Šimáčková** - Software Developer, Head functions developer
+- **Roselyn Natani Šimáčková** - Software Developer, Head functions developer
   - Email: [SIMACKOVA EMAIL]
 - **Savva Popov** - Head Hardware Developer
   - Email: savva.popov.sp@gmail.com
