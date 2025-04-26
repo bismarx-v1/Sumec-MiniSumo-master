@@ -24,7 +24,7 @@ This GitHub repository contains redirects to other sub-repositories (Software, H
 - **Šimon Šťastný** - Head Mechanical Designer and Developer
 - **Jonáš Jarý** - Mechanical Developer, Software and Hardware Development Assistant
 - **Lukáš Houdek** - Mechanical Designer and Developer, 3D Printing Expert
-- **Natani Šimáčková** - Software developer, head functions developer
+- **Roselyn Natani Šimáčková** - Software developer, head functions developer
 - **Savva Popov** - Head Hardware Developer and PCB Designer
 
 ## Our Suppliers
