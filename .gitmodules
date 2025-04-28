@@ -1,6 +1,6 @@
 [submodule "Sumec-MiniSumo-SW"]
 	path = Sumec-MiniSumo-SW
-	url = https://github.com/NataniSi/Sumec-MiniSumo-SW
+	url = https://github.com/NataniSi/Sumec-MiniSumo-SW/
 [submodule "Sumec-MiniSumo-HW"]
 	path = Sumec-MiniSumo-HW
 	url = https://github.com/bismarx-v1/Sumec-MiniSumo-HW/
